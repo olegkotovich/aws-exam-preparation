@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "s3-api-spike", "s3-api-spike\s3-api-spike.csproj", "{689BF70C-14AA-4175-90D3-A570A6A148BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{689BF70C-14AA-4175-90D3-A570A6A148BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689BF70C-14AA-4175-90D3-A570A6A148BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689BF70C-14AA-4175-90D3-A570A6A148BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689BF70C-14AA-4175-90D3-A570A6A148BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9377638-4D3B-4C8D-A5A1-C3EA108932CB}
+	EndGlobalSection
+EndGlobal
