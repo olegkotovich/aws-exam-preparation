@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aws-exam-preparation", "aws-exam-preparation\aws-exam-preparation.csproj", "{8C49AD41-7093-4714-9DDF-38140D444723}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dynamodb-streams", "dynamodb-streams\dynamodb-streams.csproj", "{2CAEBDE1-D69B-41D3-AEF0-DD638DFBC289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C49AD41-7093-4714-9DDF-38140D444723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C49AD41-7093-4714-9DDF-38140D444723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C49AD41-7093-4714-9DDF-38140D444723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C49AD41-7093-4714-9DDF-38140D444723}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CAEBDE1-D69B-41D3-AEF0-DD638DFBC289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CAEBDE1-D69B-41D3-AEF0-DD638DFBC289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CAEBDE1-D69B-41D3-AEF0-DD638DFBC289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CAEBDE1-D69B-41D3-AEF0-DD638DFBC289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A878D9C2-46C9-465F-A5C1-A0020FD0E5E1}
+	EndGlobalSection
+EndGlobal
